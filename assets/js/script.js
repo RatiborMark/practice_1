@@ -1,5 +1,7 @@
 'use strict';
 
+let go = 5;
+
 let personalMovieDB = {
     count: 0,
     movies: {},
